@@ -6,4 +6,4 @@
 ## Virtual Machine Manager
 ### virt-manager 2.2.1
 ### QEMU:///session
-<img src='installation-application-manager/Screenshot_20191018_235648.png'>
+<img src='Screenshot_20191018_235648.png'>
