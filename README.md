@@ -9,10 +9,10 @@ https://community.microfocus.com/t5/Access-Manager/ct-p/AccessManager
 #### Documentation
 https://www.netiq.com/documentation/access-manager/
 - Select an Edition
-		- NetIQ Access Manager 4.5
+	- NetIQ Access Manager 4.5
 		https://www.netiq.com/documentation/access-manager-45/
 		
-- NetIQ Access Manager Appliance 4.5
+	- NetIQ Access Manager Appliance 4.5
 
 #### Knowledge Base
 #### Access Manager Courses
